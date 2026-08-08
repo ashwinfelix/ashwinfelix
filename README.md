@@ -69,7 +69,6 @@ $ cat current_focus.txt
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ashwinfelix&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 
 ![Streak](https://streak-stats.demolab.com?user=ashwinfelix&theme=dark&hide_border=true)
 
