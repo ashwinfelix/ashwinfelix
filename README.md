@@ -9,40 +9,51 @@
 ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝╚═╝  ╚═══╝
 ```
 
-**`Full-Stack Dev / B.Tech CSE @ VIT Vellore / Always building something`**
+**`AI / Full-Stack / B.Tech CSE @ VIT Vellore / Markets on the side`**
 
 </div>
 
 ---
 
-Hey. I'm Ashwin — I spend most of my time writing code, breaking things, and occasionally fixing them. Currently deep in the MERN stack rabbit hole, poking at blockchain stuff on the side, and yes — I do rage at games between commits.
+Hey. I'm Ashwin — started out building full-stack web apps, now I'm deep into AI engineering. LLMs, agents, pipelines — that's where most of my headspace goes these days. When I'm not shipping something, I'm watching charts, reading about F&O strategies, or tilting in a ranked game.
 
 ```bash
 $ whoami
 > ashwin-felix-manoj
 
-$ cat interests.txt
-> building web apps that don't suck
-> blockchain & cryptography (still learning)
-> competitive gaming
-> figuring out why my code works when I stop staring at it
+$ cat current_focus.txt
+> building AI agents and LLM-powered apps
+> langchain / langsmith / tavily / python ecosystem
+> learning options & futures trading
+> tracking IPOs like it's a side quest
+> still gaming. always gaming.
 ```
 
 ---
 
 ## what I work with
 
-**day-to-day**
+**AI / ML stack**
+`Python` `LangChain` `LangSmith` `Tavily` `OpenAI API`
+
+**full-stack (the roots)**
 `MongoDB` `Express.js` `React` `Node.js` `Next.js` `Vite`
 
-**also in the mix**
-`Three.js` `Web3.js` `Remix` `React Router` `Nodemon`
-
 **languages**
-`JavaScript` `Java` `C` `C#` `SQL` `HTML/CSS`
+`Python` `JavaScript` `Java` `C` `C#` `SQL`
 
-**tools**
-`MySQL` `Figma` `Canva` `.NET`
+**tools & misc**
+`MySQL` `Figma` `.NET` `Git`
+
+---
+
+## also into
+
+```
+📈  equity markets — IPOs, F&O, learning to read the tape
+🤖  agentic AI — multi-step reasoning, tool use, RAG pipelines  
+🎮  competitive gaming — the only place losing is still fun
+```
 
 ---
 
@@ -54,9 +65,23 @@ $ cat interests.txt
 
 ---
 
+## github activity
+
 <div align="center">
 
-*"Talk is cheap. Show me the code."* — Linus Torvalds
+![Stats](https://github-readme-stats.vercel.app/api?username=ashwinfelix&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+
+![Streak](https://streak-stats.demolab.com?user=ashwinfelix&theme=dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinfelix&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
+---
+
+<div align="center">
+
+*"The best way to predict the future is to build it."*
 
 [![visits](https://visitcount.itsvg.in/api?id=ashwinfelix&icon=2&color=6)](https://visitcount.itsvg.in)
 
