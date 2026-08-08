@@ -73,7 +73,7 @@ $ cat current_focus.txt
 
 ![Streak](https://streak-stats.demolab.com?user=ashwinfelix&theme=dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinfelix&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 </div>
 
@@ -83,6 +83,6 @@ $ cat current_focus.txt
 
 *"The best way to predict the future is to build it."*
 
-[![visits](https://visitcount.itsvg.in/api?id=ashwinfelix&icon=2&color=6)](https://visitcount.itsvg.in)
+
 
 </div>
