@@ -46,20 +46,6 @@ $ cat interests.txt
 
 ---
 
-## github activity
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=ashwinfelix&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-
-![Streak](https://nirzak-streak-stats.vercel.app/?user=ashwinfelix&theme=dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinfelix&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
----
-
 ## find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwin-m-felix-86b707230/)
